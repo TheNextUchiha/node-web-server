@@ -1,3 +1,5 @@
+//For heroku, use cmd. for git, use bash in vscode.
+
 const express = require('express');
 const hbs = require('hbs');
 const fs = require('fs');
